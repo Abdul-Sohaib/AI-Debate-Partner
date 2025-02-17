@@ -1,7 +1,7 @@
 🗣️ AI Debate Partner – Redefining Intelligent Argumentation
 "Challenge. Learn. Grow. Debate."
 
-![AI Debate Banner](../Ai-Debate/Frontend/src/assets/banner-1.jpg)
+![AI Debate Banner](./banner-1.jpg)
 
 🚀 Introduction: The Future of Debating is AI-Powered
 Debating is not just a skill—it’s an intellectual battleground where ideas are challenged, perspectives are broadened, and reasoning is sharpened. However, mastering the art of argumentation takes time, practice, and access to strong opposing viewpoints.
