@@ -129,7 +129,7 @@ npm run dev(Frontend)
 
 📢 Join us in shaping the future of AI-driven debate! 🚀
 
-🔗 GitHub Repository
+🔗 GitHub Repository={https://github.com/Abdul-Sohaib/AI-Debate-Partner.git}
 
 ✨ Let’s challenge the status quo, one debate at a time! ✨
 
